@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Ang2DirectivesExamplesPage {
+export class Ang2ExamplesDirectivesPage {
   navigateTo() {
     return browser.get('/');
   }

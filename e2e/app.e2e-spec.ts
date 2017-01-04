@@ -1,10 +1,10 @@
-import { Ang2DirectivesExamplesPage } from './app.po';
+import { Ang2ExamplesDirectivesPage } from './app.po';
 
-describe('ang2-directives-examples App', function() {
-  let page: Ang2DirectivesExamplesPage;
+describe('ang2-examples-directives App', function() {
+  let page: Ang2ExamplesDirectivesPage;
 
   beforeEach(() => {
-    page = new Ang2DirectivesExamplesPage();
+    page = new Ang2ExamplesDirectivesPage();
   });
 
   it('should display message saying app works', () => {

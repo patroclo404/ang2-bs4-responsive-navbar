@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*
+Add this here for Bootstrap 4, or add to the angular-cli.json file
+see: http://stackoverflow.com/questions/38534276/how-to-use-bootstrap-4-in-angular-2
+
+
+Also there are issues with TypeScript 2.1.4
+
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+*/
+
+body {
+  background-color: dodgerblue;
+}

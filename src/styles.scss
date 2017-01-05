@@ -7,9 +7,11 @@ see: http://stackoverflow.com/questions/38534276/how-to-use-bootstrap-4-in-angul
 
 Also there are issues with TypeScript 2.1.4
 
-@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+//@import "../node_modules/bootstrap/dist/scss/bootstrap.scss";
 
 body {
   background-color: dodgerblue;
+  padding-top: 70px;
 }

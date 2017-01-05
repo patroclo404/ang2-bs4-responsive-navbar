@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": "",
     "declaration": false,
+    "noImplicitAny": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "lib": ["es6", "dom"],
@@ -11,8 +12,21 @@
     "outDir": "../dist/out-tsc",
     "sourceMap": true,
     "target": "es5",
+    "removeComments": true,
     "typeRoots": [
       "../node_modules/@types"
     ]
+  },
+  "files": [
+    "main.ts",
+    "typings.d.ts"
+  ],
+  "filesGlob": [
+    "**/*.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": false
   }
+
+
 }

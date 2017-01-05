@@ -1,5 +1,5 @@
 {
-  "name": "ang2-examples-directives",
+  "name": "Angular-2-Responsive-Bootstrap-NavBar",
   "version": "0.1.0",
   "license": "MIT",
   "angular-cli": {},
@@ -21,7 +21,6 @@
     "@angular/platform-browser": "^2.3.1",
     "@angular/platform-browser-dynamic": "^2.3.1",
     "@angular/router": "^3.3.1",
-    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.16",
     "core-js": "^2.4.1",
     "rxjs": "^5.0.1",
     "ts-helpers": "^1.1.1",
@@ -40,18 +39,25 @@
     "karma-cli": "^1.0.1",
     "karma-jasmine": "^1.0.2",
     "karma-remap-istanbul": "^0.2.1",
+    "node-sass": "^4.1.1",
     "protractor": "~4.0.13",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^4.1.1",
     "ts-node": "1.2.1",
     "tslint": "^4.0.2",
-    "typescript": "~2.0.3"
+    "typescript": "~2.1.10"
   },
   "description": "This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.",
   "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "ng2-directives-examples"
+  },
   "keywords": [
-    "Angular2",
+    "Angular",
+    "2",
     "TypeScript",
-    "Bootstrap",
-    "4",
+    "Bootstrap4",
     "Directives"
   ],
   "author": "dtro-devuk"

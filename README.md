@@ -31,7 +31,7 @@ It also requires Tether:
 Add the following to Styles.scss
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
-#### SASS
+### SASS
 To install SASS into the Angular CLI, you can use the following commands:
 
 ##### New Projects

@@ -1,3 +1,5 @@
+# ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
+
 # Angular 2 - A Responsive NavBar built with Bootstrap 4
 ___
 ##Stack
